@@ -1,0 +1,6 @@
+{
+  "name": "VaultScribe",
+  "description": "Free, open-source, strictly on-device MP3 to SRT, JSON, and TXT transcription studio supporting Bangla, English, Hindi, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

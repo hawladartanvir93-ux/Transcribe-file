@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VaultScribe</string>
+    <string name="tagline_on_device">100% On-Device • Zero Cloud Upload</string>
+    <string name="tab_studio">Studio</string>
+    <string name="tab_transcript">Transcript</string>
+    <string name="tab_models">Models</string>
+    <string name="tab_vault">Vault</string>
+    <string name="drop_zone_title">Drop MP3 or Audio File Here</string>
+    <string name="drop_zone_subtitle">Drag &amp; drop from Files, or tap to browse MP3, WAV, M4A, OGG, FLAC</string>
+    <string name="browse_audio_button">Browse Audio File</string>
+    <string name="transcribe_now_button">Transcribe Offline</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="export_srt">Export SRT</string>
+    <string name="export_json">Export JSON</string>
+    <string name="export_txt">Export TXT</string>
+    <string name="copy_output">Copy</string>
+    <string name="share_output">Share</string>
+    <string name="save_output">Save File</string>
+    <string name="language_label">Transcription Language</string>
+    <string name="engine_label">On-Device Engine</string>
+    <string name="privacy_badge">Air-Gapped Processing</string>
+</resources>
